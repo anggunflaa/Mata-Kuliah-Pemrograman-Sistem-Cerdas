@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+[
+  "model",
+  "year",
+  "transmission",
+  "mileage",
+  "fuelType",
+  "tax",
+  "mpg",
+  "engineSize"
+=======
+[
+  "model",
+  "year",
+  "transmission",
+  "mileage",
+  "fuelType",
+  "tax",
+  "mpg",
+  "engineSize"
+>>>>>>> 8c40dabf (init: project + model.pkl via LFS)
+]
